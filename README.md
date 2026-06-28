@@ -1,4 +1,4 @@
-# Java_banking_System
+# Java_Banking_System
 A basic Java banking system demonstrating deposit, withdrawal, and balance management using object-oriented programming.
 
 A simple banking application written in Java.
